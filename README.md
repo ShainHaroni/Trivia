@@ -4,7 +4,7 @@
 * Trivia Game written in Python.
 * Implemented with server and client.
 * To run this game: run the server and after it the client. Enjoy!
-* Can play with more than 1 client.
+* Can play with more than one client.
 * In case you want to add more questions to the trivia you can do it by adding questions to attached txt file.
 * RPG script.
 
